@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="19px" height="19px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="sel_notification" transform="matrix(1,0,0,1,-0.067,0)">
+        <g id="Rectangle_2550" transform="matrix(1,0,0,1,0.067,0.001)">
+            <rect x="0" y="0" width="19" height="19" style="fill:none;"/>
+        </g>
+        <g id="desel_notification" transform="matrix(1,0,0,1,-847.263,-127.309)">
+            <path d="M864.491,140.262C864.491,140.263 864.491,140.263 864.491,140.264C864.491,141.216 863.707,142 862.755,142C862.755,142 862.755,142 862.755,142L851.2,142C851.186,142 851.172,142.001 851.158,142.001C850.207,142.001 849.424,141.218 849.424,140.267C849.424,139.315 850.207,138.533 851.158,138.533C851.172,138.533 851.186,138.533 851.2,138.533L851.2,133.86C851.2,130.69 853.809,128.081 856.979,128.081C860.149,128.081 862.758,130.69 862.758,133.86L862.758,138.528C863.708,138.53 864.49,139.312 864.491,140.262ZM854.378,142.862L859.578,142.862C859.578,144.288 858.404,145.462 856.978,145.462C855.552,145.462 854.378,144.288 854.378,142.862Z" style="fill:rgb(255,195,0);fill-rule:nonzero;"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="20px" height="20px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
+    <rect id="Rectangle_2686" x="0" y="0" width="20" height="20" style="fill:none;"/>
+    <g id="username-2" transform="matrix(1,0,0,1,2,1.25)">
+        <g id="Path_5372" transform="matrix(1,0,0,1,-6,-10.707)">
+            <path d="M22.2,28.394L22.2,26.429C22.167,24.24 20.339,22.465 18.15,22.498L10.05,22.498C7.861,22.465 6.033,24.24 6,26.429L6,28.394" style="fill:none;stroke:rgb(255,195,0);stroke-width:0.95px;"/>
+        </g>
+        <g id="Path_5373" transform="matrix(1,0,0,1,-7.832,-4.5)">
+            <path d="M19.861,8.431C19.861,10.587 18.086,12.362 15.93,12.362C13.774,12.362 11.999,10.587 11.999,8.431C11.999,6.275 13.774,4.5 15.93,4.5C18.086,4.5 19.861,6.275 19.861,8.431Z" style="fill:none;stroke:rgb(255,195,0);stroke-width:0.95px;"/>
+        </g>
+    </g>
+</svg>

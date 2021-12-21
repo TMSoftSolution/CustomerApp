@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="19px" height="19px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Rectangle_2552" transform="matrix(1,0,0,1,0,0.001)">
+        <rect x="0" y="0" width="19" height="19" style="fill:none;"/>
+    </g>
+    <g id="desel_fav" transform="matrix(1,0,0,1,-2.741,-3.47)">
+        <path d="M16.552,4.5C14.932,4.514 13.395,5.232 12.346,6.467C11.297,5.232 9.76,4.514 8.14,4.5C8.129,4.5 8.118,4.5 8.108,4.5C5.305,4.5 3,6.806 3,9.608C3,9.63 3,9.653 3,9.675C3,13.232 6.178,16.13 10.992,20.534L12.347,21.767L13.7,20.525C18.514,16.131 21.692,13.232 21.692,9.675C21.692,9.653 21.692,9.63 21.692,9.608C21.692,6.806 19.387,4.5 16.584,4.5C16.574,4.5 16.563,4.5 16.552,4.5Z" style="fill:rgb(255,195,0);fill-rule:nonzero;"/>
+    </g>
+</svg>
